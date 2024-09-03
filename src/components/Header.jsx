@@ -1,5 +1,5 @@
 import React from "react";
-import Typed from "react-typed";
+import { ReactTyped } from "react-typed";
 
 export default function Header({ resumeData }) {
     
@@ -88,7 +88,7 @@ export default function Header({ resumeData }) {
                                 className="wave_img"
                             />
                         </h1>
-                        <Typed
+                        <ReactTyped
                             strings={resumeData.roleDescription}
                             typeSpeed={40}
                             backSpeed={10}

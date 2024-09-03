@@ -30,3 +30,13 @@ yarn-error.log*
 
 # Data
 Data.json
+
+# Visual Studio Code
+.vscode
+
+# Mac
+.DS_Store
+
+# Virtual environment
+venv
+*/.venv

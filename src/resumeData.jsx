@@ -4,13 +4,13 @@ let resumeData = {
     role: "Full Stack Developer",
     Resume: "https://docs.google.com/document/d/1neYu1QyMXUmTpM3-vkvduRZb4ftwEHCRZM9ESnkU8bA/edit?usp=sharing",
     roleDescription: [
-		"Software Development Engineer @noon",
-        "R&amp;D Engineer @Coademy",
-		"Competitive Programmer @Codeforces, AtCoder, LeetCode, CodeChef and Google Contests",
-		"Fresh Graduate from the Faculty of Computers &amp; Informatics at Suez Canal University",
-		"3x ACPC Finalist",
-		"Always learning new things",
-        "Using Software as a solution for every Problem",
+		"Software Development Engineer @noon 🚀",
+        "Former Leader Coach @Coach Academy 👨‍🏫",
+		"Competitive Programmer @Codeforces, AtCoder, LeetCode, CodeChef, and Google Contests 🏆",
+		"A Graduated from the Faculty of Computers &amp; Informatics at Suez Canal University 🎓",
+		"3x ACPC Finalist 🏆",
+		"Always learning new things 📚",
+        "Using Software as a solution for every Problem 🔍",
 	],
     socialLinks: [
         {
@@ -52,24 +52,21 @@ let resumeData = {
             name: "icpc",
             url: "https://icpc.global/ICPCID/IW0X0CTD0ZV9",
             icon: "https://iili.io/HaY3AIs.webp",
-        },
+        }
     ],
     aboutme: [
-		"👨‍💻  I'm Software Development Engineer @<a href=\"https://www.noon.com/egypt-en/\" target=\"_blank\">noon</a>",
-		"⚙️  I'm R&D Engineer @<a href=\"https://coachacademy.club/\" target=\"_blank\">Coademy</a>",
-		"🏫  I am a Fresh Graduate&nbspfrom&nbsp<a href=\"https://cutt.ly/FCI_SCU\" target=\"_blank\">faculty of Computers & Informatics</a>&nbspat&nbsp<a href=\"http://suez.edu.eg/ar/\" target=\"_blank\">Suez Canal University</a>",
-		"🏆  I'am 3x ACPC Finalist",
-		"💻  I'm Competitive Programmer @ <a href=\"https://codeforces.com/profile/7oSkaaa/\" target=\"_blank\">Codeforces</a>,&nbsp<a href=\"https://atcoder.jp/users/ahmed_7oSkaa/\" target=\"_blank\">AtCoder</a>,&nbsp<a href=\"https://leetcode.com/7oSkaa/\" target=\"_blank\">LeetCode</a>,&nbsp<a href=\"https://www.codechef.com/users/ahmed_7oskaa\" target=\"_blank\">CodeChef</a>&nbspand&nbsp<a href=\"https://codingcompetitions.withgoogle.com/\" target=\"_blank\">Google Contests</a>",
-		"✍🏻  I love using Software as a solution for every Problem",
-		"🤓  Always learning new things"
+		"👨‍💻  Software Development Engineer @<a href=\"https://www.noon.com/egypt-en/\" target=\"_blank\">noon</a>",
+		"👨‍🏫  Leader Coach @<a href=\"https://coachacademy.club/\" target=\"_blank\">Coach Academy</a>",
+		"🎓  Graduate&nbspfrom&nbsp<a href=\"https://cutt.ly/FCI_SCU\" target=\"_blank\">faculty of Computers & Informatics</a>&nbspat&nbsp<a href=\"http://suez.edu.eg/ar/\" target=\"_blank\">Suez Canal University</a>",
+		"🏆  3x ACPC Finalist",
+		"🎯  Competitive Programmer @ <a href=\"https://codeforces.com/profile/7oSkaaa/\" target=\"_blank\">Codeforces</a>,&nbsp<a href=\"https://atcoder.jp/users/ahmed_7oSkaa/\" target=\"_blank\">AtCoder</a>,&nbsp<a href=\"https://leetcode.com/7oSkaa/\" target=\"_blank\">LeetCode</a>,&nbsp<a href=\"https://www.codechef.com/users/ahmed_7oskaa\" target=\"_blank\">CodeChef</a>&nbspand&nbsp<a href=\"https://codingcompetitions.withgoogle.com/\" target=\"_blank\">Google Contests</a>",
+		"🛠️  Using Software as a solution for every Problem",
+		"📚  Always learning new things"
 	],
     address: "Port Said, Egypt",
     number: '<a href="tel:+201208822340"> 01208822340 </a>',
     summary: [
-        `Detail-oriented Computer Science graduate with strong web development skills and a passion for problem-solving and
-        Competitive Programming. Proven proficiency in HTML, CSS, JavaScript, React JS, Python, and Django. Experience includes
-        Software Engineering and Full Stack Development at bld.ai. Demonstrated leadership in project management and a track
-        record of successful contests and events. Strong communicator with adaptability and a collaborative mindset.`
+        `Skilled Backend Software Development Engineer at noon with extensive experience in competitive programming, highlighted by achievements as a 3-time ACPC Finalist. Possesses a robust background in various programming languages and frameworks, including React JS, React Native, Django, and FastAPI. Professional journey includes significant roles at bld.ai and contributions as a mobile developer for the Etlas app. Proactive community leader who led the ICPC SCU team for two years and graduated with honors from the Faculty of Computers and Informatics at Suez Canal University in 2023.`
     ],
     education: [
         {
@@ -93,14 +90,20 @@ let resumeData = {
             MonthOfJoining: "Febraury",
             YearOfJoining: "2024",
             YearOfLeaving: "Present",
+            Achievements: [
+                "Developed and presented a comprehensive training project, including system design, detailed reporting, and deployment",
+                "Designed and implemented a system to automate the process of creating and updating internal forms using <b>FastAPI</b> and <b>Swagger</b>",
+            ],
+            skills: "Scripting, Google API, Git, GitLab, FastAPI, Swagger, Postman, Trello, SQL, GO, Docker, Kubernetes, Python, Backend Development, JavaScript, Design Pattern, System Design"
         },
         {
-            CompanyName: "Coademy",
+            CompanyName: "Coach Academy",
             Type: "Part Time",
-            specialization: "R & D Engineer",
+            specialization: "Leader Coach",
             MonthOfJoining: "November",
             YearOfJoining: "2023",
-            YearOfLeaving: "Present",
+            MonthOfLeaving: "March",
+            YearOfLeaving: "2024",
             Achievements: [
                 "<b>Created</b> clear and effective course materials for competitive programming",
                 "<b>Guided and supported</b> aspiring competitive programmers in a collaborative learning setting",
@@ -173,6 +176,7 @@ let resumeData = {
             Ranks: [
                 "<i>76</i>&nbsp<sup>th</sup> Place  &nbsp&mdash;&nbsp  ACPC 21'",
                 "<i>56</i>&nbsp<sup>th</sup> Place  &nbsp&mdash;&nbsp  ACPC 22'",
+                "<i>49</i>&nbsp<sup>th</sup> Place  &nbsp&mdash;&nbsp  ACPC 23'",
             ]
         },
         {
@@ -201,24 +205,28 @@ let resumeData = {
                     rate: "80",
                 },
                 {
-                    skillname: "Java",
-                    rate: "70",
+                    skillname: "GO",
+                    rate: "75",
                 },
                 {
                     skillname: "JavaScript",
-                    rate: "80",
-                },
-                {
-                    skillname: "HTML",
-                    rate: "80",
-                },
-                {
-                    skillname: "CSS",
-                    rate: "80",
+                    rate: "75",
                 },
                 {
                     skillname: "SQL",
-                    rate: "60",
+                    rate: "75",
+                },
+                {
+                    skillname: "HTML",
+                    rate: "70",
+                },
+                {
+                    skillname: "CSS",
+                    rate: "70",
+                },
+                {
+                    skillname: "Java",
+                    rate: "50",
                 },
             ]
         },
@@ -262,8 +270,12 @@ let resumeData = {
                     rate: "70",
                 },
                 {
+                    skillname: "System Design",
+                    rate: "80",
+                },
+                {
 					skillname: "Trello",
-					rate: "80"
+					rate: "70"
 				},
 				{
 					skillname: "Swagger",
@@ -276,7 +288,15 @@ let resumeData = {
 				{
 					skillname: "Postman",
 					rate: "90"
-				}
+				},
+                {
+                    skillname: "Docker",
+                    rate: "70",
+                },
+                {
+                    skillname: "Kubernetes",
+                    rate: "60",
+                }
             ]
         },
         {
@@ -314,6 +334,14 @@ let resumeData = {
                     skillname: "Google Documents (Docs, Sheets, Slides, Forms, etc.)",
                     rate: "100",
                 },
+                {
+                    skillname: "Google API",
+                    rate: "90",
+                },
+                {
+                    skillname: "Web Extensions",
+                    rate: "50",
+                }
             ]
         },
         {
@@ -321,16 +349,25 @@ let resumeData = {
             skillsSection: [
                 {
                     skillname: "Django",
-                    rate: "85",
+                    rate: "75",
                 },
                 {
                     skillname: "React JS",
-                    rate: "90",
+                    rate: "80",
                 },
                 {
                     skillname: "React Native",
-                    rate: "90",
-                }
+                    rate: "80",
+                },
+                {
+                    skillname: "FastAPI",
+                    rate: "80",
+                },
+                {
+                    skillname: "Bootstrap",
+                    rate: "60",
+                },
+
             ]
         },
         {
@@ -342,6 +379,10 @@ let resumeData = {
                 },
                 {
                     skillname: "Linux",
+                    rate: "100",
+                },
+                {
+                    skillname: "Mac OS",
                     rate: "100",
                 }
             ]
@@ -468,44 +509,49 @@ let resumeData = {
     ],
     inTouch: [
         {
-            name: "linkedin",
+            name: "Linkedin",
             url: "https://www.linkedin.com/in/7oskaa/",
             icon: "https://iili.io/HaY3BBR.webp"
         },
         {
-            name: "gmail",
+            name: "Gmail",
             url: "mailto:ahmed.7oskaa@gmail.com",
             icon: "https://iili.io/HaY3z7t.webp",
         },
         {
-            name: "facebook",
+            name: "Facebook",
             url: "https://www.facebook.com/7oSkaaa/",
             icon: "https://iili.io/HaYErDF.webp",
         },
         {
-            name: "whatsapp",
+            name: "Whatsapp",
             url: "https://wa.link/csfdug",
             icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.webp"
         },
         {
-            name: "telegram",
+            name: "Telegram",
             url: "https://t.me/ahmed_7oskaa",
             icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.webp"
         },
         {
-            name: "snapchat",
+            name: "Snapchat",
             url: "https://www.snapchat.com/add/ahmed.7oskaa?sender_web_id=894dc409-9f66-49fa-ae9e-cd213b716351&device_type=desktop&is_copy_url=true",
             icon: "https://iili.io/HaYE6og.webp"
         },
         {
-            name: "instagram",
+            name: "Instagram",
             url: "https://www.instagram.com/ahmed_7oskaa/",
             icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.webp"
         },
         {
-            name: "twitter",
+            name: "Twitter",
             url: "https://twitter.com/Ahmed_7oSkaa",
             icon: "https://iili.io/HaYEPVa.webp"
+        },
+        {
+            name: "YouTube",
+            url: "https://www.youtube.com/@7oSkaa",
+            icon: "https://i.ibb.co/mhFnQvM/pngegg.webp"
         }
     ],
     languages: [
